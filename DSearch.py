@@ -11,7 +11,6 @@ class Pts:
 
 class DeepSearch:
     def __init__(self,maze):
-        self.row,self.column = np.shape(maze)
         row,col = np.shape(maze)
         self.row = row-1
         self.column = col-1
