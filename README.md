@@ -1,5 +1,8 @@
 # Depth First Search Algorithm for Identify Black Pixels
 
+
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/nasa/fprime.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mecitpmk/Depth-First-Search-Algorithm-for-Identify-Black-Pixels/context:python)
+
 This script written for Identifying Black pixels and Find how much Black pixels region it has.
 Also script calculates percentage for that purposes. 
 
